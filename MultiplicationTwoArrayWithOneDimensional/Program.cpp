@@ -40,6 +40,6 @@ int main() {
 	
 	cout<<endl;
 	
-	cout<<"The Schtroumpf is equal to: "<<schtroumpf;
+	cout<<"The Schtroumpf is equal to: "<<schtroumpf<<endl;
 	return 0;
 }
