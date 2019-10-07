@@ -8,5 +8,5 @@ Array A2: 3-6
 The Schtroumpf is equal to: 3*4 + 3*8 + 3*7 + 3*12 + 6*4 + 6*8 + 6*7 + 6*12 = 279
 </pre>
 
-### Simple run
+### Sample run
 ![SimpleRun](https://user-images.githubusercontent.com/32389129/65785590-68532b80-e15d-11e9-8a2c-ef2dd4f6a086.gif)
